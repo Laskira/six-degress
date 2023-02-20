@@ -1,0 +1,3 @@
+[submodule "frontend-prueba"]
+	path = frontend-prueba
+	url = https://github.com/Laskira/frontend-prueba
